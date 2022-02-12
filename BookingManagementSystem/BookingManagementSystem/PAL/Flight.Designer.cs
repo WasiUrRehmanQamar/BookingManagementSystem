@@ -198,7 +198,7 @@
             this.panel3.Location = new System.Drawing.Point(150, 158);
             this.panel3.Margin = new System.Windows.Forms.Padding(2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1044, 81);
+            this.panel3.Size = new System.Drawing.Size(1220, 81);
             this.panel3.TabIndex = 123;
             // 
             // label5
@@ -269,7 +269,7 @@
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1194, 158);
+            this.panel1.Size = new System.Drawing.Size(1370, 158);
             this.panel1.TabIndex = 121;
             // 
             // Login_Label
@@ -279,7 +279,7 @@
             this.Login_Label.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(67)))), ((int)(((byte)(171)))), ((int)(((byte)(188)))));
             this.Login_Label.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Login_Label.ForeColor = System.Drawing.Color.White;
-            this.Login_Label.Location = new System.Drawing.Point(421, 57);
+            this.Login_Label.Location = new System.Drawing.Point(509, 57);
             this.Login_Label.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Login_Label.Name = "Login_Label";
             this.Login_Label.Size = new System.Drawing.Size(399, 31);
@@ -472,7 +472,7 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(798, 311);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(384, 273);
+            this.dataGridView1.Size = new System.Drawing.Size(560, 273);
             this.dataGridView1.TabIndex = 126;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
@@ -560,7 +560,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MistyRose;
-            this.ClientSize = new System.Drawing.Size(1194, 668);
+            this.ClientSize = new System.Drawing.Size(1370, 668);
             this.Controls.Add(this.textBox_SS);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.comboBox_FN);

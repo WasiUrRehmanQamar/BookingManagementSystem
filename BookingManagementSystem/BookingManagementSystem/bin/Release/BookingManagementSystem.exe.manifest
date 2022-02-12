@@ -49,17 +49,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MnnoXAn0Huxg1IrYBXN/PrmmyqA6p4WDGtF+nOtHnY8=</dsig:DigestValue>
+        <dsig:DigestValue>DnC9mYYUEg4Vv5/1y7G0nWhkLDKRRAYI2La6Ykeux+c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="BookingManagementSystem.exe.config" size="187">
+  <file name="BookingManagementSystem.exe.config" size="182">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+      <dsig:DigestValue>PbQiHFOih9uz3RPvvsStiPKcsu3PE8/gyCn2QGUyyf4=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
